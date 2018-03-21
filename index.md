@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Usagikyo/destinychildChara
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Image](https://avatars1.githubusercontent.com/u/37567530?s=400&u=e28ef495148186f00473101a1bc3f1a9541141f0&v=4)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
