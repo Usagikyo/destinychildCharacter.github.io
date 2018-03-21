@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Usagikyo/destinychildChara
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Image](https://github.com/Usagikyo/destinychildCharacter.github.io/blob/master/rare5/dark%20(1).png)
+![Image](/rare5/dark%20(1).png)
 
 ### Markdown
 
